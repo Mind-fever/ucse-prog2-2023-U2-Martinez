@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.example.AvionComercialTest" tests="4" skipped="0" failures="0" errors="0" timestamp="2024-07-30T19:13:01" hostname="DESKTOP-V9V9Q8F" time="0.03">
+  <properties/>
+  <testcase name="volarReturnsCombustibleNecesarioCorrecto()" classname="org.example.AvionComercialTest" time="0.024"/>
+  <testcase name="volarLargaDistancia()" classname="org.example.AvionComercialTest" time="0.001"/>
+  <testcase name="getConsumoCombustibleRetornaValorCorrecto()" classname="org.example.AvionComercialTest" time="0.001"/>
+  <testcase name="getCapacidadCombustibleRetornaValorCorrecto()" classname="org.example.AvionComercialTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
