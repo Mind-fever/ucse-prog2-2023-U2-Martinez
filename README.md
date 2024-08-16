@@ -1,10 +1,10 @@
 # Jacoco
 
-![Jacoco](imagenes/jacoco.png)
+![Jacoco](./Imagenes/jacoco.png)
 
 ## Benchmark
 
-![Benchmark](imagenes/benchmark.png)
+![Benchmark](./Imagenes/Benchmark.png)
 
 ## Conclusiones
 
